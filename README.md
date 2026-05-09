@@ -6,7 +6,7 @@ A lightweight, minimal, and clean full-stack web application to easily search fo
 
 This project provides a beginner-friendly way to query a static dataset of over 80+ Bangalore pincodes. It features a modern, responsive UI where users can switch between searching by a 6-digit pincode or a partial area name. It handles empty states, loading states, and missing results gracefully.
 
-![Screenshot placeholder: Bangalore Pincode Explorer UI](https://placehold.co/800x500/f3f4f6/1f2937?text=UI+Screenshot+Placeholder)
+![Screenshot placeholder: Bangalore Pincode Explorer UI](Screenshot 2026-05-09 at 2.19.26 PM.png)
 
 ## Features
 
